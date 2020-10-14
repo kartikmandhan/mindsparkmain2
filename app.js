@@ -57,7 +57,7 @@ function f(pos) {
     if (!theme.classList.contains("hide")) theme.classList.add("hide");
   }
 }
-var link = document.querySelector(".downloadBrochure");
-link.href = "./MindSpark'20 Brochure.pdf";
-link.download = "Brochure";
-link.dispatchEvent(new MouseEvent("click"));
+// var link = document.querySelector(".downloadBrochure");
+// link.href = "./MindSpark'20 Brochure.pdf";
+// link.download = "Brochure";
+// link.dispatchEvent(new MouseEvent("click"));

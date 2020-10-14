@@ -62,3 +62,6 @@ section h1 {
 .hide {
   display: none !important;
 }
+.downloadBrochure {
+  display: inline-block;
+}
